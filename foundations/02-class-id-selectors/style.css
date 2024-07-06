@@ -1,19 +1,18 @@
-.pinkp {
+.odd {
     background-color: rgb(255, 184, 194);
     font-family: Verdana, 'Dejavu Sans', 'sans-serif';
 }
 
-.pinkp.cooler {
+.adjust-font-size {
     font-size: 24px;
 }
 
-#blueId {
+#two {
     color: #0000ff;
     font-size: 36px;
 }
 
-#greenId {
+#four {
     background-color: hsl(120, 73%, 75%);
-    font-size: 24px;
     font-weight: bold;
 }
