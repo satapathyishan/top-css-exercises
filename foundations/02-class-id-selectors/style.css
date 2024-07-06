@@ -1,0 +1,8 @@
+.pinkp {
+    background-color: rgb(255, 184, 194);
+    font-family: Verdana, 'Dejavu Sans', 'sans-serif';
+}
+
+.pinkp.cooler {
+    font-size: 24px;
+}
